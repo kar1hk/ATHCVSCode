@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B9390CDA-55CB-4D72-AB4A-F8814623F584"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EAC78684-E358-4C1D-9D49-83E14A51A2B1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CVSFicklr/CVSNetworking/CVSNetworkingManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "request(_:method:body:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EAC78684-E358-4C1D-9D49-83E14A51A2B1 - 35111f8fc5d3f57b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for CVSFicklr.CVSNetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: Swift.String, method: CVSFicklr.CVSHTTPMethod, body: Swift.Optional&lt;Any&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CVSFicklr.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karthik/Desktop/CVSFlickr/CVSFicklr/CVSFicklr/CVSNetworking/CVSNetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46">
+               </Location>
+               <Location
+                  uuid = "EAC78684-E358-4C1D-9D49-83E14A51A2B1 - fd27b427b678f179"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CVSFicklr.CVSNetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: Swift.String, method: CVSFicklr.CVSHTTPMethod, body: Swift.Optional&lt;Any&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CVSFicklr.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karthik/Desktop/CVSFlickr/CVSFicklr/CVSFicklr/CVSNetworking/CVSNetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46">
+               </Location>
+               <Location
+                  uuid = "EAC78684-E358-4C1D-9D49-83E14A51A2B1 - 21dce0938fac7f78"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for CVSFicklr.CVSNetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: Swift.String, method: CVSFicklr.CVSHTTPMethod, body: Swift.Optional&lt;Any&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CVSFicklr.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karthik/Desktop/CVSFlickr/CVSFicklr/CVSFicklr/CVSNetworking/CVSNetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE315BA9-D646-4461-9597-5F316376D200"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CVSFicklr/CVSNetworking/CVSNetworkingManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "request(_:method:body:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AE315BA9-D646-4461-9597-5F316376D200 - 35111f8fc5d3f55a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for CVSFicklr.CVSNetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: Swift.String, method: CVSFicklr.CVSHTTPMethod, body: Swift.Optional&lt;Any&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CVSFicklr.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karthik/Desktop/CVSFlickr/CVSFicklr/CVSFicklr/CVSNetworking/CVSNetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47">
+               </Location>
+               <Location
+                  uuid = "AE315BA9-D646-4461-9597-5F316376D200 - fd27b427b678f158"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CVSFicklr.CVSNetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: Swift.String, method: CVSFicklr.CVSHTTPMethod, body: Swift.Optional&lt;Any&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CVSFicklr.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karthik/Desktop/CVSFlickr/CVSFicklr/CVSFicklr/CVSNetworking/CVSNetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47">
+               </Location>
+               <Location
+                  uuid = "AE315BA9-D646-4461-9597-5F316376D200 - 21dce0938fac7f59"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for CVSFicklr.CVSNetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: Swift.String, method: CVSFicklr.CVSHTTPMethod, body: Swift.Optional&lt;Any&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CVSFicklr.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karthik/Desktop/CVSFlickr/CVSFicklr/CVSFicklr/CVSNetworking/CVSNetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CFB2C577-5565-431D-963E-EDE95CCE937F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CVSFicklr/CVSNetworking/CVSNetworkingManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "request(_:method:body:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CFB2C577-5565-431D-963E-EDE95CCE937F - 35111f8fc5d3f518"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for CVSFicklr.CVSNetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: Swift.String, method: CVSFicklr.CVSHTTPMethod, body: Swift.Optional&lt;Any&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CVSFicklr.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karthik/Desktop/CVSFlickr/CVSFicklr/CVSFicklr/CVSNetworking/CVSNetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49">
+               </Location>
+               <Location
+                  uuid = "CFB2C577-5565-431D-963E-EDE95CCE937F - fd27b427b678f11a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CVSFicklr.CVSNetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: Swift.String, method: CVSFicklr.CVSHTTPMethod, body: Swift.Optional&lt;Any&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CVSFicklr.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karthik/Desktop/CVSFlickr/CVSFicklr/CVSFicklr/CVSNetworking/CVSNetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49">
+               </Location>
+               <Location
+                  uuid = "CFB2C577-5565-431D-963E-EDE95CCE937F - 21dce0938fac7f1b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for CVSFicklr.CVSNetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: Swift.String, method: CVSFicklr.CVSHTTPMethod, body: Swift.Optional&lt;Any&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CVSFicklr.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karthik/Desktop/CVSFlickr/CVSFicklr/CVSFicklr/CVSNetworking/CVSNetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "070B823A-9AE0-41E7-BB91-C513DC41EE72"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CVSFicklr/CVSNetworking/CVSNetworkingManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "request(_:method:body:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "070B823A-9AE0-41E7-BB91-C513DC41EE72 - 35111f8fc5d3f5de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for CVSFicklr.CVSNetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: Swift.String, method: CVSFicklr.CVSHTTPMethod, body: Swift.Optional&lt;Any&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CVSFicklr.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karthik/Desktop/CVSFlickr/CVSFicklr/CVSFicklr/CVSNetworking/CVSNetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51">
+               </Location>
+               <Location
+                  uuid = "070B823A-9AE0-41E7-BB91-C513DC41EE72 - fd27b427b678f1dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CVSFicklr.CVSNetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: Swift.String, method: CVSFicklr.CVSHTTPMethod, body: Swift.Optional&lt;Any&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CVSFicklr.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karthik/Desktop/CVSFlickr/CVSFicklr/CVSFicklr/CVSNetworking/CVSNetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51">
+               </Location>
+               <Location
+                  uuid = "070B823A-9AE0-41E7-BB91-C513DC41EE72 - 21dce0938fac7fdd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for CVSFicklr.CVSNetworkingManager.request&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(_: Swift.String, method: CVSFicklr.CVSHTTPMethod, body: Swift.Optional&lt;Any&gt;) async throws -&gt; &#x3c4;_0_0"
+                  moduleName = "CVSFicklr.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/karthik/Desktop/CVSFlickr/CVSFicklr/CVSFicklr/CVSNetworking/CVSNetworkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38CF9C93-38AF-4D89-B619-7BC6A12E6078"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CVSFicklr/ViewModel/FKLPhotoViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "fetchPhotoStreamFor(searchTerm:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "05E7141A-53F1-4DFE-9D6A-C3E09853F508"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CVSFicklr/View/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
