@@ -3,6 +3,9 @@
 ## Overview
 I have made this CVSFicklr as a SwiftUI application that showcases Flickr photos with the option to integrate both CVS and Athena branding themes as whitelabel app. 
 
+## Built with
+Xcode 16.0 
+
 ## Key-Highlights
 1. The app is designed with reusable components for network management and UIKit - We can also move them to a package and integrate with SPM - I have not done this due to time constraints.
 2. Meets Acceptance Criteria :
