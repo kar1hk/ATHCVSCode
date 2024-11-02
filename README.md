@@ -1,7 +1,7 @@
 # CVSFicklr
 
 ## Overview
-I have made this CVSFicklr as a SwiftUI application that showcases Flickr photos with the option to integrate both CVS and Athena branding themes as whitelabel app. 
+I have made this CVSFicklr as a SwiftUI application that showcases Flickr photos with the option to integrate both CVS and Aetna branding themes as whitelabel app. 
 
 ## Built with
 Xcode 16.0 
@@ -21,7 +21,7 @@ Xcode 16.0
 ## Branding
 You can also change the look of the app by changing the branding option in *'CVSFicklrApp.swift'* 
 
-Change : Line 16 : `CVSUIKit.shared.brand = .Athena` to `CVSUIKit.shared.brand = .CVS`
+Change : Line 16 : `CVSUIKit.shared.brand = .Aetna` to `CVSUIKit.shared.brand = .CVS`
 
 to view the changes in color themeing.
 
