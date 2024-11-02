@@ -63,6 +63,6 @@ struct CVSUICardView: View {
 }
 
 #Preview("CVSUICardView", traits: .sizeThatFitsLayout) {
-    CVSUICardView(imageURL: CVSUIKit.shared.brandLogoURL, title: "Athena Photo Title")
+    CVSUICardView(imageURL: CVSUIKit.shared.brandLogoURL, title: "Aetna Photo Title")
         .padding() // Optional padding for a better view
 }

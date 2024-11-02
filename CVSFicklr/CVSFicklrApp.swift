@@ -13,7 +13,7 @@ struct CVSFicklrApp: App {
     // Launch with Brand Options
     init () {
         // Set Brand Value in here
-        CVSUIKit.shared.brand = .Athena
+        CVSUIKit.shared.brand = .Aetna
     }
     
     var body: some Scene {

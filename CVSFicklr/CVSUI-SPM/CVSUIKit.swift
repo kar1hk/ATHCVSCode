@@ -11,13 +11,13 @@ import SwiftUI
 // Supported theming Brands this can be expanded as needed
 enum Brand {
     case CVS
-    case Athena
+    case Aetna
     
     // Brand Title to be used in Apps
     fileprivate var title: String {
         switch self {
             case .CVS: return "CVS Health"
-            case .Athena: return "Athena Health"
+            case .Aetna: return "Aetna Health"
         }
     }
     
@@ -25,7 +25,7 @@ enum Brand {
     fileprivate var primaryColor: Color {
         switch self {
             case .CVS: return Color(hex: "#cc0000")
-            case .Athena: return Color(hex: "#582c83")
+            case .Aetna: return Color(hex: "#7d3f98")
         }
     }
     
@@ -33,7 +33,7 @@ enum Brand {
     fileprivate var secondaryColor: Color {
         switch self {
             case .CVS: return Color(hex: "#ffffff")
-            case .Athena: return Color(hex: "#ffffff")
+            case .Aetna: return Color(hex: "#ffffff")
         }
     }
     
@@ -41,7 +41,7 @@ enum Brand {
     fileprivate var logoURL: String {
         switch self {
             case .CVS: return "https://cadiversityawards.com/wp-content/uploads/2024/06/CVS-Health-Awardee.png"
-            case .Athena: return "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFEmTpwlJJ9Jb8YQthS1IaZMDj8yIKt2rFAw&s"
+            case .Aetna: return "https://1000logos.net/wp-content/uploads/2016/10/Aetna-logo.jpg"
         }
     }
 }

@@ -38,7 +38,7 @@ final class CVSFicklrTests: XCTestCase {
             // Make Test Data
             let mockPhotos = [
                 FKLPhotoModel(title: "CVS Photo", mediaURL: "https://cadiversityawards.com/wp-content/uploads/2024/06/CVS-Health-Awardee.png"),
-                FKLPhotoModel(title: "Athena Photo", mediaURL: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFEmTpwlJJ9Jb8YQthS1IaZMDj8yIKt2rFAw&s")
+                FKLPhotoModel(title: "Aetna Photo", mediaURL: "https://1000logos.net/wp-content/uploads/2016/10/Aetna-logo.jpg")
             ]
             
             let mockResponse = FKLPhotoResponseModel(items: mockPhotos)
